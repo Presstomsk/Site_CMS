@@ -26,3 +26,16 @@
 Удаление существующей статьи
 
 Каждая статья имеет собственный заголовок, резюме и дату публикации.
+
+![1](https://github.com/Presstomsk/Site_CMS/blob/main/jpg/1.jpg)
+
+![1](https://github.com/Presstomsk/Site_CMS/blob/main/jpg/2.jpg)
+
+![1](https://github.com/Presstomsk/Site_CMS/blob/main/jpg/3.jpg)
+
+![1](https://github.com/Presstomsk/Site_CMS/blob/main/jpg/4.jpg)
+
+![1](https://github.com/Presstomsk/Site_CMS/blob/main/jpg/5.jpg)
+
+![1](https://github.com/Presstomsk/Site_CMS/blob/main/jpg/6.jpg)
+
